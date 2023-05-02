@@ -22,4 +22,10 @@ while True:
         print(f"input provided: {inprovided}")
 ```
 
-cargo run python3 sample.py
+`cargo run python3 sample.py`
+
+### Example stdout
+```json
+{"log":"line 2","stream":"stdout","time":"2023-05-02T18:00:38.526892071+05:30"}
+{"log":"line 2","stream":"stdout","time":"2023-05-02T18:00:38.526892071+05:30"}
+```
