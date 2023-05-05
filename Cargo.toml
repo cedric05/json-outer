@@ -2,6 +2,10 @@
 name = "json-outer"
 version = "0.1.0"
 edition = "2021"
+description="splits tail output into multiple files"
+license="MIT-0"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+author="kesavarapu.siva@gmail.com"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
